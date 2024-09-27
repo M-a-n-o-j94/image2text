@@ -1,0 +1,4 @@
+streamlit
+google-generativeai # Generative AI
+python-dotenv # Meant for local environme
+
